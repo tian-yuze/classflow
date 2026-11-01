@@ -6,6 +6,14 @@
 
 ![任务与备忘页面](preview-tasks.png)
 
+## 在线访问
+
+- 在线版：<https://tian-yuze.github.io/classflow/>
+- 源码仓库：<https://github.com/tian-yuze/classflow>
+- 网站简介：[SITE-INTRO.md](SITE-INTRO.md)
+
+GitHub Pages 直接托管 `main` 分支根目录，纯静态，没有构建步骤。
+
 ## 快速开始
 
 任选一种：
@@ -190,6 +198,7 @@ assets/js/ui.js            弹窗、确认框、Toast、剪贴板
 assets/js/app.js           状态、事件、表单、导入、设置、提醒
 preview.png                课程表预览图
 preview-tasks.png          任务与备忘预览图
+SITE-INTRO.md              可直接用于发布/介绍的网站简介
 test/                      开发自测脚本与导入样例
 ```
 
