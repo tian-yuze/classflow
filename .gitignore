@@ -1,0 +1,15 @@
+# 本地记忆库（不要上传）
+.dsh-meow/
+
+# 浏览器测试 profile 与截图
+.edge-*/
+**/.edge-*/
+test/*.png
+test/*.jpg
+test/*.jpeg
+
+# 系统与编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
